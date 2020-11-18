@@ -4,7 +4,7 @@ We present Virtual Secure Platform (VSP), the first comprehensive platform that 
 
 - [GitHub](https://github.com/virtualsecureplatform/kvsp)
 - [arXiv](https://arxiv.org/abs/2010.09410)
-- [29th USENIX Security Symposium prepublication](https://www.usenix.org/conference/usenixsecurity21/presentation/matsuoka)
+- [30th USENIX Security Symposium prepublication](https://www.usenix.org/conference/usenixsecurity21/presentation/matsuoka)
 
 ## Demo on YouTube
 
