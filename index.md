@@ -8,7 +8,7 @@ We present Virtual Secure Platform (VSP), the first comprehensive platform that 
 
 ## Demo on YouTube
 
-<iframe width="1280" height="729" src="https://www.youtube.com/embed/1YsUaZMITR8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="640" height="365" src="https://www.youtube.com/embed/1YsUaZMITR8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Japanese Resouces
 
