@@ -1,4 +1,4 @@
-Virtual Secure Platform (VSP) provides an enough toolchain
+Virtual Secure Platform (VSP) provides a toolchain
 to run encrypted C programs without decryption.
 
 VSP is the first comprehensive platform
