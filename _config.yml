@@ -1,2 +1,4 @@
 theme: jekyll-theme-slate
-title: Virtual Secure Platform
+title: Virtual Secure Platform (VSP)
+github:
+    repository_url: https://github.com/virtualsecureplatform/kvsp
